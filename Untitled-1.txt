@@ -1,8 +1,1 @@
-algoritmo "exercicio10"
-var
-   x, y ,z:real
-inicio
-   leia (x,y)
-   z<-x+y
-   escreva("Z")
-filmalgoritma 
+
